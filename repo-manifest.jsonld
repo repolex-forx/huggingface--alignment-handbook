@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/huggingface/alignment-handbook/commit/53c11c328684f965162f41ff93185bb9e0448263",
       "git:hexsha": "53c11c328684f965162f41ff93185bb9e0448263",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T01:54:04.680945+00:00"
     },
     {
       "@id": "https://repolex.ai/r/huggingface/alignment-handbook/commit/54361918d642cb6097f6899f96d7680c9da9ed4b",
