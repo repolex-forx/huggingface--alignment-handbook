@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "alignment-handbook",
+  "versions": [
+    {
+      "commit": "53c11c328684f965162f41ff93185bb9e0448263",
+      "tag": "",
+      "parsed_at": "2026-10-17T01:54:04.681365+00:00"
+    }
+  ]
+}
